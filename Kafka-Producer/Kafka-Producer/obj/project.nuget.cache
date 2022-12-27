@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "eFtbGGY0oeBRC4XX0AB/Mo9raLVuBS5XRH/lEl5wMNRsHq3UbentcfYBUzAl+VHs3abekGU7P2SVA6VFdI7wlw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rafael-W3\\source\\repos\\Kafka Project\\Kafka-Producer\\Kafka-Producer\\Kafka-Producer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rafael-W3\\.nuget\\packages\\confluent.kafka\\1.9.3\\confluent.kafka.1.9.3.nupkg.sha512",
+    "C:\\Users\\Rafael-W3\\.nuget\\packages\\librdkafka.redist\\1.9.2\\librdkafka.redist.1.9.2.nupkg.sha512",
+    "C:\\Users\\Rafael-W3\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
